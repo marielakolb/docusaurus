@@ -21,8 +21,8 @@ import Layout from '@theme/Layout';
 export default function MyReactPage() {
   return (
     <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
+      <h1>DOCUMENTACIÓN SISTEMA DE GESTIÓN CA.PRO.ME.</h1>
+      <p>Inicio de Sesión</p>
     </Layout>
   );
 }
